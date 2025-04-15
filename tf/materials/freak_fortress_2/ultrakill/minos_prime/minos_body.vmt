@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/ultrakill/minos_prime/minos_body"
+	"$bumpmap" "freak_fortress_2/ultrakill/minos_prime/minos_body_normals"
+	"$color" "[3 3 3]"
+	"$alpha" "1"
+	"$translucent" "0"
+	"$additive" "1"
+	"$ambientocclusion" "0"
+
+	$surfaceprop metal
+
+              "$basetexturealphaenvmapmask" 1
+ 	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost"	".5"
+	"$phongfresnelranges"	"[.3 .3 .3]"
+	"$phongalbedotint" "1"
+
+	$envmap "freak_fortress_2/ultrakill/minos_prime/softsilver"
+	$envmaptint "[ 0.1 0.1 0.1 ]"
+	$envmapFresnel "1"
+
+
+	$halflambert 0
+	$diffuseexp 1.5
+}
