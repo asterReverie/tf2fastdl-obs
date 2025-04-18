@@ -1,0 +1,64 @@
+// Advertisements 2.1
+// by Tsunami
+//
+// Types
+// -----
+// center: Center message
+// chat: Chat message
+// hint: Hint message
+// menu: Menu message
+// top: Top message
+//
+// Flags (optional)
+// -----
+// Accepts flags of admins that will not see the advertisement.
+// When omitted everyone will see the advertisement.
+// When left empty only admins will see the advertisement.
+
+"Advertisements"
+{
+    "1"
+    {
+        "chat"		"{purple}* {default}La hora es: {cyan}{time} {purple}*"
+    }
+	"2"
+	{
+		"chat"		"{purple}* {default}La fecha es: {cyan}{date} {purple}*"
+	}
+	"3"
+	{
+		"chat"		"{purple}* {default}El mapa es {cyan}{currentmap}{default}, y quedan {cyan}{timeleft} {default}minutos. {purple}*"
+	}
+	"4"
+	{
+		"chat"		"{purple}* {default}Usa {yellow}!robot {default}para convertirte en un robot de MvM. {purple}*"
+	}
+	"5"
+	{
+		"chat"		"{purple}* {default}En mapas con objetivos, puedes usar {yellow}!scramblevote {default}o {yellow}!sausage {default}para mezclar los equipos. {purple}*"
+	}
+	"6"
+	{
+		"chat"		"{purple}* {default}Usa {yellow}!rtv {default}para votar por cambio de mapa. {purple}*"
+	}
+	"7"
+	{
+		"chat"		"{purple}* {default}Para nominar un mapa en la siguiente votación usa {yellow}!nominate {purple}*"
+	}
+	"8"
+	{
+		"chat"		"{purple}* {default}Para ver la rotación de mapas utiliza {yellow}!motd {purple}*"
+	}
+	"9"
+	{
+		"chat"		"{purple}* {default}Usa {yellow}!ff2 {default}para abrir el menú de opciones en el modo VSH/FF2. {purple}*"
+	}
+	"10"
+	{
+		"chat"		"{purple}* {default}Usa {yellow}!tp {default}para cambiar a 3° persona, y {yellow}!fp {default}para cambiar de vuelta. {purple}*"
+	}
+	"11"
+	{
+		"chat"		"{purple}* {default}Puedes usar {yellow}!taunts {default}para abrir el menu de burlas. {purple}*"
+	}
+}

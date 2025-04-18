@@ -1,0 +1,69 @@
+  01 "Admin File Reader" (1.12.0.7196) by AlliedModders LLC
+  02 "Admin Help" (1.12.0.7196) by AlliedModders LLC
+  03 "Admin Menu" (1.12.0.7196) by AlliedModders LLC
+  04 "Advanced Infinite Ammo" (1.5.3) by Tylerst
+  05 "Advertisements" (2.1.1) by Tsunami
+  06 "Anti-Flood" (1.12.0.7196) by AlliedModders LLC
+  07 "Basic Ban Commands" (1.12.0.7196) by AlliedModders LLC
+  08 "Basic Chat" (1.12.0.7196) by AlliedModders LLC
+  09 "Basic Comm Control" (1.12.0.7196) by AlliedModders LLC
+  10 "Basic Commands" (1.12.0.7196) by AlliedModders LLC
+  11 "Basic Info Triggers" (1.12.0.7196) by AlliedModders LLC
+  12 "Basic Votes" (1.12.0.7196) by AlliedModders LLC
+  13 "BuildingsSpawner" (1.0.3) by X3Mano
+  14 "Client Preferences" (1.12.0.7196) by AlliedModders LLC
+  15 "[Source 2013] Custom Chat Colors" (3.1.0) by Dr. McKay
+  16 "[TF2CA] Custom Weapons Config Adapter for Custom Attributes" (1.2.2) by nosoop
+  17 "[TF2] Custom Weapons X" (X.0.10-252f811) by nosoop
+  18 "[TF2] Custom Weapons X - Equip Commands" (1.1.0) by nosoop
+  19 "[ANY] End of Round Friendly Fire" (2.0.0) by Sgt. Gremulock
+  20 "Freak Fortress 2: Rewrite - Default Abilities" (Custom) by Batfoxkid
+  21 "Freak Fortress 2: Rewrite - Epic Abilities" (Custom) by Batfoxkid
+  22 "Freak Fortress 2: Rewrite - Gray Abilities" (Custom) by Batfoxkid
+  23 "Freak Fortress 2: Rewrite - Menu Abilities" (Custom) by Batfoxkid
+  24 "Freak Fortress 2: Rewrite" (1.2.217) by Batfoxkid based on the original done by many others
+  25 "Fun Commands" (1.12.0.7196) by AlliedModders LLC
+  26 "Fun Commands X" (2.6) by Spazman0 and Arg!
+  27 "Fun Votes" (1.12.0.7196) by AlliedModders LLC
+  28 "[TF2] Gimme" (1.20) by PC Gamer
+  29 "[Any] Deluxe Godmode" (2.3.1) by DarthNinja
+  30 "MapChooser" (1.12.0.7196) by AlliedModders LLC
+  31 "Map configs" (1.3) by Berni
+  32 "Map Vote Sound" (1.0) by Busted
+  33 "Nextmap" (1.12.0.7196) by AlliedModders LLC
+  34 "Map Nominations" (1.12.0.7196) by AlliedModders LLC
+  35 "Player Commands" (1.12.0.7196) by AlliedModders LLC
+  36 "Reserved Slots" (1.12.0.7196) by AlliedModders LLC
+  37 "Rock The Vote" (1.12.0.7196) by AlliedModders LLC
+  38 "[TF2] Respawn Player" (1.1) by Zuko
+  39 "Roll The Dice (Revamped)" (2.5.5) by Phil25
+  40 "Simple Chat Processor (Redux)" (2.3.0) by Simple Plugins, Mini
+  41 "Sound Commands" (1.12.0.7196) by AlliedModders LLC
+  42 "Source Scramble Manager" (1.2.0) by nosoop
+  43 "SteamWorks Game Description Override" (1.1) by Dr. McKay, Sarabveer(VEERÖ)
+  44 "[TF2] TF2Attributes" (1.3.3@nosoop-1.7.1.1) by FlaminSarge
+  45 "[TF2] Econ Taunts" (1.3.1) by x07x08
+  46 "[TF2] Econ Unusual Taunts" (1.3.0) by x07x08
+  47 "TF2 Utils" (1.3.2) by nosoop
+  48 "TF2Ware Ultimate" (1.2.7) by ficool2
+  49 "[TF2] Custom Attributes" (0.4.1) by nosoop
+  50 "[TF2] Custom Attribute Debugger" (1.0.0) by nosoop
+  51 "[TF2] Custom Attribute Manager" (1.0.0) by nosoop
+  52 "[TF2] Custom Attribute Team Subsection Handler" (1.1.0) by nosoop
+  53 "[TF2] Econ Data" (0.19.1) by nosoop
+  54 "[TF2] Econ Dynamic Compatibility Shim" (1.0.0) by nosoop
+  55 "[TF2] OnTakeDamage Hooks" (1.3.3) by nosoop
+  56 "[TF2] Thirdperson" (2.1.0) by DarthNinja
+  57 "Tidy Chat" (0.5) by linux_lover
+  58 "Updater" (1.2.2) by GoD-Tony
+  59 "VScript" (1.10.0.90) by 42
+  60 "Workshop Mapname Stripper" (1.0.0) by Techno
+  61 "Resize Players" (1.5.1) by 11530
+  62 "Be the Robot" (1.3) by MasterOfTheXP
+  63 "Be the Robot: Sentry Buster" (1.3) by MasterOfTheXP
+  64 "Goomba Stomp Core" (2.0.2) by Flyflo
+  65 "Goomba Stomp TF2" (1.1.0) by Flyflo
+  66 "[TF2] Set Player Class" (1.0.1) by DarthNinja
+  67 "TF2 Set Class" (1.2.2) by Tylerst
+  68 "[TF2] gScramble)" (3.0.33) by Goerge
+  69 "TF2 Fast Respawns" (1.0.8) by WoZeR, MonkeyBiz, gH0sTy, Downtown1, Kevin_b_er, SaberUK, octo-dhd

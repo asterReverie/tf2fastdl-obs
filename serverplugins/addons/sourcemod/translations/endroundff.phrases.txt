@@ -1,0 +1,17 @@
+"Phrases"
+{
+	"chat tag"
+	{
+		"en"	"{green}[{lightgreen}End Round FF{green}]{default}"
+	}
+
+	"enabled"
+	{
+		"en"	"End of Round Friendly Fire has been {green}enabled!"
+	}
+
+	"disabled"
+	{
+		"en"	"End of Round Friendly Fire has been {red}disabled!"
+	}
+}

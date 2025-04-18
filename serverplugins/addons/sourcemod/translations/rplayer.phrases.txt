@@ -1,0 +1,57 @@
+"Phrases"
+{
+	"PluginDisabled"
+	{
+		"en"		"Respawn Plugin is Disabled"
+		"pl"		"Respawn Plugin jest Wyłączony"
+	}
+	
+	"PluginUsage"
+	{
+		"en"		"Usage: sm_rplayer <user id | name>"
+		"pl"		"Użycie: sm_rplayer <user id | name>"
+	}
+	
+	"PluginLog"
+	{
+		"#format"	"{1:L},{2:L}"
+		"en"		"{1} has respawned {2}"
+		"pl"		"{1} zrespawnował {2}"
+	}
+	
+	"SpawnPhrase1"
+	{
+		"#format"	"{1:N}"
+		"en"		"You have been respawned by {1}."
+		"pl"		"Zostałeś zrespawnowany przez {1}."
+	}
+	
+	"SpawnPhrase2"
+	{
+		"#format"	"{1:N},{2:N}"
+		"en"		"{1} has respawned {2}"
+		"pl"		"{1} zrespawnował {2}"
+	}
+	
+	"SpawnPhrase3"
+	{
+		"#format"	"{1:N}"
+		"en"		"You have respawned {1}"
+		"pl"		"Zrespawnowałeś {1}"
+	}
+	
+	"RespawnPlayer"
+	{
+		"en"		"Respawn Player"
+		"pl"		"Zrespawnuj Gracza"
+	}
+	
+	"ChoosePlayer"
+	{
+		"en"		"Choose Player:"
+		"pl"		"Wybierz Gracza:"
+	}
+}
+
+
+	

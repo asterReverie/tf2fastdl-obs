@@ -1,0 +1,10 @@
+!gimme 9991/9992 -> rocket launchers rotisimos
+!forcertd -> forzar un perk de rtd en un jugador
+!buster -> sentry buster
+!ff2_makeboss [boss] -> convertirte en un boss de ff2
+!rplayer [user] -> revivir a un jugador
+!resize [user] [scale] -> cambia el tamaño de un jugador
+!setclass [user] [class] -> cambiar de clase
+!setplayerclass [user] [class] -> lo mismo pero mantienes el loadout
+!sbuild [1/2] [1-3] -> spawnear una construccion del engineer (1-dispenser, 2-sentry) (nivel)
+!sdestroy -> destruye construcciones
